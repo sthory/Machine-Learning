@@ -11,4 +11,6 @@ The purpose of this program is to build a neural network in TensorFlow 2 that ca
 
 A recurrent neural network is built with LSTM cells, as it is the current state of the art in time series forecasting.
 
-![image1](image1)
+![image1](epoch_loss.png)
+
+![image2](epoch_loss.png)
