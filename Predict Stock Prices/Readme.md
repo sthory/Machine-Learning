@@ -14,3 +14,5 @@ A recurrent neural network is built with LSTM cells, as it is the current state 
 ![image1](epoch_loss.png)
 
 ![image2](epoch_mean_absolute_error.png)
+
+![image3](FInal_graph.png)
