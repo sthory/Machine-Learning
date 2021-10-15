@@ -1,5 +1,4 @@
-# 
-Faces recognition using eigenfaces and SVMs
+# Faces recognition using eigenfaces and SVMs
 
 ![image1](1.png)
 
